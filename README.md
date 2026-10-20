@@ -19,13 +19,13 @@
 
 </div>
 
-## 🔴 About Me
+##  About Me
 
-- 👋 Hi, I'm **chienminh21**
-- 🛠️ Interested in scripting, gaming and software projects
-- 🎮 Project: **PhiPhai v2**
-- 💻 Exploring Lua / Luau and Python
-- 📌 Check out my repositories below
+-  Hi, I'm **chienminh21**
+-  Interested in scripting, gaming and software projects
+-  Project: **PhiPhai v2/v3**
+-  Can use with Lua / Luau / Python / Yuescript / JavaScript / C++
+-  Check out my repositories below
 
 ---
 
