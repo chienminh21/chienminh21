@@ -8,7 +8,7 @@
   />
 
   <p>
-    <b>DEVELOPER • GAMING • PROJECTS</b>
+    <b>No Developer • Gamer • Sleepy • Eat </b>
   </p>
 
   <img
